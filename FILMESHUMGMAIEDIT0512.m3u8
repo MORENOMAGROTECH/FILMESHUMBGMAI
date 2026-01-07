@@ -1,130 +1,87 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Seven+-+Os+Sete+Crimes+Capitais" tvg-info="direct", Seven+-+Os+Sete+Crimes+Capitais
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="Seven - Os Sete Crimes Capitais",Seven - Os Sete Crimes Capitais
 https://861609453.tapecontent.net/radosgw/APWggQkoZdTXJl1/Ex42TSb9Iy8hGiPDiquh-rmRFPzQEoJFbYQV-ilTaAZATVgF-a61TTk0GF_ESg0sin1jopRiw9g-92YJuiRA--Q65pX3GkZoFY2_ztND1xKBqfzFPnQJvp9N_ZLbYH8T3hcvlmbyZg1YlkijenWAAziXhOULJRflohEBYhQZc1nM8JI5u3dPehyS1vQxaQc5lyHcOM5-Fv9xnwoRxJRsCaEVvJ1sS66VRjR8mFPJ5SC7GxYVzzTjWa3ASGSUrH0T02Wqom2mt0JvFTGYHg0CX0bKnD1uf1cSxssdew_324n_hZ-NWBzpnDorQYY/Seven+-+Os+Sete+Crimes+Capitais.mp4?stream=1
-
-#EXTINF:-1 tvg-name="A+Hora+do+Pesadelo+4.O+Mestre+dos+Sonhos.%281989%29.Dublado.1080p.By.Luan.Harper" tvg-info="direct", A+Hora+do+Pesadelo+4.O+Mestre+dos+Sonhos.%281989%29.Dublado.1080p.By.Luan.Harper
+#EXTINF:-1 tvg-name="A Hora do Pesadelo 5-O Maior Horror de Freddy-1990-Dublado",A Hora do Pesadelo 5-O Maior Horror de Freddy-1990-Dublado
 https://2453352000.tapecontent.net/radosgw/KLrz1ea3Xjf0dge/yJO15nS765ndll_E1lU0s-A4o8E98KR3dsBlbe5xjC2WTye7b8s_CcrKXiqrpoFO1FvKe5dl29whkc3O-S3uF4dDubCJA9WV_gY3CNjsD4psLAPsvrrNmyRQArfv8wwN9nEvKWoNL6elBG3dB7s63UTtQ4k0vy4TEymaKzzn_6-W785kfD4ZsbZ7DXgwdwBeshQJ-zdk4zk8iwLOeitlO3TVLC48gjd03BQoVwUoLsvG8JcGLS1SD0WT6bl7KEw4EWSQWuiV4_frPTIhp5rwhcbNDiluzlHwsJvZbm7aX7USUeLv6N3GFBRAuErC3aC2KVkbTcWiY2Zdiq_CDxfSmm0inQjrCTrtVamFRA/A+Hora+do+Pesadelo+4.O+Mestre+dos+Sonhos.%281989%29.Dublado.1080p.By.Luan.Harper.mp4?stream=1
-
-#EXTINF:-1 tvg-name="A+Hora+do+Pesadelo+5.O+Maior+Horror+de+Freddy.%281990%29.Dublado.1080p.By.Luan.Harper" tvg-info="direct", A+Hora+do+Pesadelo+5.O+Maior+Horror+de+Freddy.%281990%29.Dublado.1080p.By.Luan.Harper
+#EXTINF:-1 tvg-name="A Hora do Pesadelo 3-Os Guerreiros dos Sonhos-1988-Dublado",A Hora do Pesadelo 3-Os Guerreiros dos Sonhos-1988-Dublado
 https://2371766633.tapecontent.net/radosgw/vDwK9QMKMQCwqB/yjj9w76eQNZqoiHDS7u0QJbm1S09sFQBbPD5I408Icp0evntiHsB2lnmxXyYC32XqkRYDeIDT9y10Ky6Lt40KngahDHxO_07_NlBjFu6f5rrcBM7p0O8lbIPn59n0FeHH18r2Yw-oWQFFa_YbVaANZ0y8IRA8m8narWxkoG2bBSmypqcb9hclvvO_eQBsyo5TBNtT-b9u2JWMO2i9UCl_4qabVPQ-eUoiGStaYw5payBPmEdbaLk9Dkf0JyGNKbv45ySlItp7NV67f5EgzHLa6LWpclErPfrt5EUiA05qMEjNBlysyDkpyunbzZz-Fpr-i-kUeRgFg2IPQxh5I8x5u-eFr3o5sWfMGJOQg/A+Hora+do+Pesadelo+5.O+Maior+Horror+de+Freddy.%281990%29.Dublado.1080p.By.Luan.Harper.mp4?stream=1
-
-#EXTINF:-1 tvg-name="A+Hora+do+Pesadelo+3.Os+Guerreiros+dos+Sonhos.%281988%29.Dublado.1080p.By.Luan.Harper" tvg-info="direct", A+Hora+do+Pesadelo+3.Os+Guerreiros+dos+Sonhos.%281988%29.Dublado.1080p.By.Luan.Harper
+#EXTINF:-1 tvg-name="A Hora do Pesadelo 1 - 1984 - Dublado",A Hora do Pesadelo 1 - 1984 - Dublado
 https://872371487.tapecontent.net/radosgw/7RKM4em9LyHxGb/-XX8dB3LlL5OSE4KMfmFDueQBkS1A5Q_xN0UDoQD9vif5vuD-V7GoygjE4HNjaqkspVuhZjZ9RQlKDm-7gx7WTbZ7C0sDpupgZTl9lMbD23exkCXZpkxxAEl-Qhh3SVpHBUzgilnpKVaypIg_AkOYMGPUhCwFWsuSkFACG-iR3RjK1dP5RXWxC_Cr5Jz8Fc2ppBszbuPJ08F1FirjSF0e2Ill6aJw1EZk_vUMY0qerRBqEjYuki4-bGQt11zP8gsfKsu2PW4CeZo4oM33wHZhHu2BH6aQqpg-owTx16ExdUF2DC8tcUDZwycHRAN3hXWmNr9U-6bif1b3MAfYB0yTonN71gy59iF1rYLqQ/A+Hora+do+Pesadelo+3.Os+Guerreiros+dos+Sonhos.%281988%29.Dublado.1080p.By.Luan.Harper.mp4?stream=1
-
-#EXTINF:-1 tvg-name="A+Hora+do+Pesadelo+-+1984+-+Dublado" tvg-info="direct", A+Hora+do+Pesadelo+-+1984+-+Dublado
+#EXTINF:-1 tvg-name="A Hora do Pesadelo 7-Pesadelo Final -A Morte de Freddy-1992-Dublado",A Hora do Pesadelo 7-Pesadelo Final -A Morte de Freddy-1992-Dublado
 https://861113495.tapecontent.net/radosgw/Wpw2qwol8qcqrK/UOrQl6WM39tBIUJfL86-6M1NcvCgbSNoe1E5dNq-_2MNInWyP8wxsv-vQUjau3JERf5tQvIHtJqnRSq8gHs3qzYcyL-4rdVSsmT1az_BE2IkoLqsvYwsjdqgwE8vCLgxaXU_vc-C_Ufoa5XIwt3luSB32UjNOQOQoLHEGOBLOg3RJdtdZv78WCG6OiXZMixOcAON82Ib0FzVirC8ETMTT90H17-TCResFJ1gLxZvcYKQ1ocKcKvhDeonZpjlhXXkPp9G5l1KQRWZVhnW7t84yjYTDbTVr6wVIMeAqp9XiqU4IDKDB-qrH5-XQO8/A+Hora+do+Pesadelo+-+1984+-+Dublado.mp4?stream=1
-
-#EXTINF:-1 tvg-name="A+Hora+do+Pesadelo+7-Pesadelo+Final+.A+Morte+de+Freddy.%281992%29.Dublado.1080p.By.Luan.Harper" tvg-info="direct", A+Hora+do+Pesadelo+7-Pesadelo+Final+.A+Morte+de+Freddy.%281992%29.Dublado.1080p.By.Luan.Harper
+#EXTINF:-1 tvg-name="A Hora do Pesadelo 2-A Vingan%C3%A7a de Freddy 1987-Dublado",A Hora do Pesadelo 2-A Vingan%C3%A7a de Freddy 1987-Dublado
 https://3652634712.tapecontent.net/radosgw/RmOg2JWGe2Cd4d2/NfIDgaZ-BRNbXD4WcKn0xz3VEuL8J-V8H_aqKunxgdDtCD4u3rVjqnHSDEqtLWblWr6v95JySTJ6XnDqNAo5jldtjjUCg-lqM5SE-Jo-SfV9T2QnomGoNt2hiG2pJ332CfoFd7LcS0-d8FZkDQw57hCrpXrS2uaDjk5zlwnmBI5_3YC9hmUqZWG-2_EzfM0zretEaXDBWDfaqkjx8OSTm2r7TAZigBkGV0Wzxx4ocVEtJo4a38k1bUaqp7i6uS36n4jvqtqlSDUnbTjsiZrSkYUn1Pj35NB8KbpVFZbSFqTWwLg77MnelTa83GSYrPGlA_qnvParK239sMpYUXVtzNx3lMALmYh2czC5ag/A+Hora+do+Pesadelo+7-Pesadelo+Final+.A+Morte+de+Freddy.%281992%29.Dublado.1080p.By.Luan.Harper.mp4?stream=1
-
-#EXTINF:-1 tvg-name="A+Hora+do+Pesadelo+2-A+Vingan%C3%A7a+de+Freddy+1987-Dublado.1080p.By.Luan.Harper" tvg-info="direct", A+Hora+do+Pesadelo+2-A+Vingan%C3%A7a+de+Freddy+1987-Dublado.1080p.By.Luan.Harper
+#EXTINF:-1 tvg-name="A Hora do Pesadelo 6 - O Novo Pesadelo_O Retorno de Freddy Krueger-1995-Dublado",A Hora do Pesadelo 6 - O Novo Pesadelo_O Retorno de Freddy Krueger-1995-Dublado
 https://872335286.tapecontent.net/radosgw/Y1LMlG90d6uOD9/2DfcU93Qt2ArGiwQM3INW1teg0cWuwl-S9p9AeC1-otlPKioYlHxWpZoDv6Rw62aH1kWVSPri4VZXI3WVYlAm1ogrtPIakHf-3Tzc_27HlXHCjfEe8EG4JoEtwWHIKPQez82RKKHhDWnqDTzcewbDVW3Tixo5Sj4OlbkLTpasTDaBv7WFqVGr8HuBkI-gfShF1tHGVk9fiXuy1slNe_KFEVv18Tta75lVUXKR781AMAQVCJlc6fhxuZqdLq_EnisWa5QNB8-q0qekKwBzz6lbPSdq2o-UXeB4smyW5fYP7BieAxvfWKxL1kEt_Xli42bXQXFAhdn_AS0h8YfJlWatxWV_5RFoBdLiXe63Q/A+Hora+do+Pesadelo+2-A+Vingan%C3%A7a+de+Freddy+1987-Dublado.1080p.By.Luan.Harper.mp4?stream=1
-
-#EXTINF:-1 tvg-name="A+Hora+do+Pesadelo+6+-+O+Novo+Pesadelo_O+Retorno+de+Freddy+Krueger.%281995%29.Dublado?stream=1" tvg-info="direct", A+Hora+do+Pesadelo+6+-+O+Novo+Pesadelo_O+Retorno+de+Freddy+Krueger.%281995%29.Dublado?stream=1
+#EXTINF:-1 tvg-name="Expedicao Kontiki - 2012 Dublado",Expedicao Kontiki - 2012 Dublado
 https://2371822278.tapecontent.net/radosgw/Z14QjrmzY3CqeZP/C-jsZSRGlPx3MukjXsRSh_9ehGTB5r2q-4I5vDd05ZQAkV7y_pQwzdeHMfMfkEXSl33RPmVZNytsizztcJIFmSbws9pWzh5C46uhnTA0F3PvH5xRl8bsVsfOc4ImRfE8GrDPkC8YTYighZrUv1VR-g3Rp7mbJiPdlJ08Ai1WLv5jGuhFvRrItgOxuAP1Bx6Lc1MTTZwJPHP4n1_qI-HRJQyeGkHbmSWngKZiS-jh58MkvPC4cf7nLuMG4qY7NP3xrRCrr4ypaiCc7xOO2egmEO4FaetR-b3JmXZyNyG-ycf56oeRDe8IOz8Zt1DuyZ1MNyeTej5Wvk7GTFO0_UZKXluTVSXihgJhsdsTSA/A+Hora+do+Pesadelo+6+-+O+Novo+Pesadelo_O+Retorno+de+Freddy+Krueger.%281995%29.Dublado?stream=1
-
-#EXTINF:-1 tvg-name="Expedicao+Kontiki+-+2012+Dublado" tvg-info="direct", Expedicao+Kontiki+-+2012+Dublado
+#EXTINF:-1 tvg-name="kontic 1950-mkv",kontic 1950-mkv
 https://908510041.tapecontent.net/radosgw/BvXB4B1VxyCybLZ/qNIZey9zbDs2jpoTZOCX2jbn9OMUfQk6RNavhCqwHo7ccRrh6WWWBAdNveCCK18FJCUUMNF2Rh9VJdEj3vJql9OuLQCMCT-wEpLRPcYehcAGYtq9KYoXh0cQSKJpSc80K1qLHAtv6eIzN5JDL1qEGFJLOFSNcnG_JVmhKqTx_rIFh5N_z8Ice_nuSSBwm-Ycffe5uolWCHOJAUK6q0_m9ou3XRV0oRjSQ-izOV8qm3inXFcgca2b5Ob9b3V_YjicOklbZ2dnUUrdVm3QqhPsPTstp_l_qikY2gC9VUhaIHFh1wjQTLynXhyIayg/Expedicao+Kontiki+-+2012+Dublado.mp4?stream=1
-
-#EXTINF:-1 tvg-name="kontic+1950.mkv" tvg-info="direct", kontic+1950.mkv
+#EXTINF:-1 tvg-name="So Resta a Esperanca-1987-Dub",So Resta a Esperanca-1987-Dub
 https://861520581.tapecontent.net/radosgw/gVwxX12GAptqKKd/3fauqBuOj1dTtClD2v6yW3DkmdzM3bwFNHjBBHmUi0dUK5Z-qjdri_0FexC4wctQs1BLyeWOq1ZJE61V7FOV42Ilr9Wy3oh1w6K2ZdPhG_0XoWhFcT0AyhaEKhAXTfHTGWR9Gm64DSDg7QorIdUI1ucEESdDTD94KTbYe_hg0nLbP16JuZSLNOfPnUuo1TpG9TwIubMOtpvzddtYDyDpESLSFBMGZz7Tgwe1zVbjSs5G8SQZUfJJJLUg8zRT3npk9KtdX3mqB2WyX3YCpbuAAMYlLLkk4vBUtUA9ew/kontic+1950.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-name="So+Resta+a+Esperanca-1987-Dub" tvg-info="direct", So+Resta+a+Esperanca-1987-Dub
+#EXTINF:-1 tvg-name="A dança dos bonecos360P",A dança dos bonecos360P
 https://861113552.tapecontent.net/radosgw/ZzVYBo3MZmiPZQ/AdqQna7rqrrjdLHwxjE5lvbc2i_Vr3tCmW8ZRkI0KYxNABJgikg6KPcAlX8LzGGjrJppi6HCL8G3xTigJqY9Ncvzzv2468SnjCgPWZqwbY6UwOoVKCWhVvOrWF6_JnVwqN69NSs1qH60904h2RbfSO7Y7l-Bs_lztd08T--vgfi22JJWzABEx0NQNf7FnX5YvOojVZ0ksYo6PXqfOtwowxRcfZqYPwUr7dVu_65V55K2k9_D-xv-YzdzT-SGZjt7q6Xey7rw5OOpoQQSz6jOAXPzTtVjVo-UL7jU4CFNE74GgO176IpEYz5t-bg/So+Resta+a+Esperanca-1987-Dub.mp4?stream=1
-
-#EXTINF:-1 tvg-name="A+dan%C3%A7a+dos+bonecos%28360P%29" tvg-info="direct", A+dan%C3%A7a+dos+bonecos%28360P%29
+#EXTINF:-1 tvg-name="Uma Historia de Amor e Furia-2013-Nacional-720p",Uma Historia de Amor e Furia-2013-Nacional-720p
 https://2453352364.tapecontent.net/radosgw/ea2ppr6ykoiYrGl/i2kwn7gREHLI8ykH-rlWvghO74QluIpWnaOgs10fl9aQUaOzzlXGsn5rbsXc-LqjiUqdBjbMAoXVOdSLqrJMiPUobWy6DNGzojJXIuCqatTq951quHsRWsxI4tJDCbQ4JslZFeaJc5aXBX_HOqU6IHUacQNoaXuohn4I6yoFTUnfbifIt3vYc8-sXBNnpP_LNcWyUQnWL4frtBjyvqgLowFqYpEjCa5E0tpmJH7Qwla3y69ZQYgSp_7mLIA_cUk6eKNCSFdIWkNz_tZjLcR5BiDghJVn62UAJt-7kFBYRlC-fdKZY-bUsuGzs_g/A+dan%C3%A7a+dos+bonecos%28360P%29.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Uma+Historia+de+Amor+e+Furia-2013-Nacional-720p" tvg-info="direct", Uma+Historia+de+Amor+e+Furia-2013-Nacional-720p
+#EXTINF:-1 tvg-name="A MARVADA CARNE - Nacional-1987 -1080p",A MARVADA CARNE - Nacional-1987 -1080p
 https://858142471.tapecontent.net/radosgw/Wwo43RXk6qTb7Pe/JhW3AOFLfeYUYkIsn0wjzdSmGbMKG1yCdvFO1MSd1RBXEGGQE_lUF_OCpn5jLP4RFICqJQz0idpaIaD5nPf684IodX7XHou1VEH2Qx_Flv9T98uQJ1RG_7tj-ikidLXWvvY_Q7NBUc9hovvu83mCc3n-NobImKjH0HwxAPWBB_UgJyTa6wxokjVuvUa9z3aYGSXIF3hBnLK7hDQdPkg7rmN-RT2jQGHy-N_05NFt9F-EZMxBMEZdZfHH_NRm4uY2C3PeLN-SF6WvYsDhle1imJcd320ANtJfM1qYZLkVgZL3qgpvq6DDFzTM7js/Uma+Historia+de+Amor+e+Furia-2013-Nacional-720p.mp4?stream=1
-
-#EXTINF:-1 tvg-name="A+MARVADA+CARNE+-+Nacional-1987+-1080p" tvg-info="direct", A+MARVADA+CARNE+-+Nacional-1987+-1080p
+#EXTINF:-1 tvg-name="Dogville 2003 Dublado 1080p",Dogville 2003 Dublado 1080p
 https://861515062.tapecontent.net/radosgw/j6mBDxdPjqcz8mR/1OUiF-q1kLNP9kesy1tMyIBGMHe_99MEjk-8d3jUvQ78X1xIsTlndJumnm3Byw5KGHo_yJeyxm1X5EhRyqY1ti0vVCRqKrmfDVSn4FuTnx_esW0bjVLNE638phwSGEHiIHv1ymZBQmi61gg44UTW1l2Q2xFT-gPM3QzwJ17T3XPzd0RFwXsbOdfVSD9pOhEuyDfOw8bZcJ3I4bGwDrD7gNSqhQdvj5n10Wofu0L1DC9OwgJz-lSvd7BsKt4XT-ErfYzvzgi3TtPz4vA1UIjMRapQZ_UUy8ruv8XW3SaevamZICv2EIn1psShT0I/A+MARVADA+CARNE+-+Nacional-1987+-1080p.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Dogville+%282003%29+Dublado+1080p" tvg-info="direct", Dogville+%282003%29+Dublado+1080p
+#EXTINF:-1 tvg-name="Indiana Jones e o Templo da Perdicao 1984",Indiana Jones e o Templo da Perdicao 1984
 https://908510015.tapecontent.net/radosgw/AJeK4jXAKohmbZ/og_x3hzgXqxutZwiZXlX_YmY9vn0E-W7LmZFWbHsACf17pm9iAFM4x7LJbkFAEISxlSm4va5rlGRGOnp8ehbJh1nDdzLfYa2b1XY6Fh_roXfc0cercu7zRs6rcPvWrxsAY0tvOdg-fJ-dlcE4H706ZnscaG4N2gANFdaQzYM528KCfSfMXJI-MyFRu4ES7cbcXpzpXz33oYxufx9t8IiMMYR6ptq5I-E3AMoP9LEMp4lXEVA4Kj8M64mYGfp4WoDybhzgKfsSh7kXYpN3DOWc8sjJAg6Qf4tU0Rn3sOthKBfsKauM5cPav6OlyE/Dogville+%282003%29+Dublado+1080p.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Indiana+Jones+e+o+Templo+da+Perdicao+%281984%29" tvg-info="direct", Indiana+Jones+e+o+Templo+da+Perdicao+%281984%29
+#EXTINF:-1 tvg-name="Indiana Jones e o Reino da Caveira de Cristal 2008",Indiana Jones e o Reino da Caveira de Cristal 2008
 https://860134085.tapecontent.net/radosgw/MyBZwykee9HmR1d/JINuliO2g0eeXOd7HW3TXj8Z3OM7pTjBGIpZkgGdlZHF-mksb3OVkMbchIhj5Ja2nKSYHImr2exyOvx4xe4Uv3zJV60Cl9mNjEbLP2k40Mvgb-fhoHPCPrewhHlkM0ihyLnuiS1NqEBlcvdcLFFcEReBxkXc6BYc5r9qEUdlEfKOhtVblKNTPwak2AhqVOcZiCXo4C81LZ4vff5HQKitawt_YascKOLYXaFz3ruUvf559PWg7rdP9BJJc200upBNZyOOcAbfHTXtNAEobebMS_sNELnvh8ZKPF-kFlCWlrFJIqI62a3KCLnrxXQ/Indiana+Jones+e+o+Templo+da+Perdicao+%281984%29.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Indiana+Jones+e+o+Reino+da+Caveira+de+Cristal+%282008%29" tvg-info="direct", Indiana+Jones+e+o+Reino+da+Caveira+de+Cristal+%282008%29
+#EXTINF:-1 tvg-name="Indiana Jones e a Ultima Cruzada -1989",Indiana Jones e a Ultima Cruzada -1989
 https://2475154701.tapecontent.net/radosgw/74jGw7Y3qvCALZx/eAsc2caZHp0Nf6hGGw8kYWVipCcxPnZsWJK-C1y0nAT9MCVGPEEpTlhB-Zuk6DI2TRitWaQOVJRDA2G-gEgm2B2MRApj57aXdgrEqLWHCpixJ99CtD08xAyR0GGimC5D-5aP2I__45RB8ozscMGypnGplUnhe49hnobLUz9qwdAHvUib9AeuXdJwwijAd6No8NK_iMNXd-FtrolSOPIXjvswc-C40PLrElzwOWZ7q1m-HnZv4OJv9539vSLGxScgM3wE9rM_7Jeszg-pbPMgjOiO7fyJ89mkalPJUj3bnbGyZfEV4DGOwaVQI3LPXfFyaVralnzlAxjvL90f/Indiana+Jones+e+o+Reino+da+Caveira+de+Cristal+%282008%29.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Indiana+Jones+e+a+Ultima+Cruzada+-1989" tvg-info="direct", Indiana+Jones+e+a+Ultima+Cruzada+-1989
+#EXTINF:-1 tvg-name="Indiana Jones e o Chamado do Destino -2023",Indiana Jones e o Chamado do Destino -2023
 https://861134107.tapecontent.net/radosgw/ekPxOjQAyjhYRWX/YKhz9tHecez1zenarSJaDB_h7z5pTCK6Qcc9vUou9iGMA21GN--l4m7WyUK28MHvoH2jIzd8txsiTVRG285oNDqJUjjsjfAe5v8-Y4mGgQcVPuBys8QY4ythlbYvKYo7XufSzZRKKaGA-mDklDek_lK0sTwMw4Hd1AtAc3eLzRJ1dWa-4MqmF0oC_PViQ9Yp1IMbumDTrSlFwnAZdvYGojK-os6D34WLdSvL4NSuZO9QaoWuHB789ZRbw_t3_ujJx9I_6ohuqL5fMsYFkssHPGItRfqVcuGcaEspRXem5wB-s-o2QWmI5SVE8AU/Indiana+Jones+e+a+Ultima+Cruzada+-1989.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Indiana+Jones+e+o+Chamado+do+Destino+-2023" tvg-info="direct", Indiana+Jones+e+o+Chamado+do+Destino+-2023
+#EXTINF:-1 tvg-name="Indiana Jones E Os Cacadores Da Arca Perdida 1981",Indiana Jones E Os Cacadores Da Arca Perdida 1981
 https://860567204.tapecontent.net/radosgw/oxV9p8kwBYFJBX4/nNXcDjWqgsQpUTMj8fl9Weq96D-vevtF5ULG3fw8tBjridQoI_xAVJ5pYQZ60uHdI4utWVUd6ig_m--_N9sR7Ay1X2-Di41AnuqUPNAf-yvzn-ZDop_Ebo9mgvft9JOs6A_hjPZ_DKgHNan2FIaI6TnmqynjPIFNOdcPeUR5KFSri--yO6rUXZx71QjbhUkcFQff3okImX9oCWLYCNFnpp19K3AC12EgAmQzWJj-Q6fOw8nCjsxCyKQ_EQqnZvFTogtV0XNksLS15nAKXtTP5QFd5usPmN8Qk4KvW3wOvu62O1vVygr_VXSsp4M/Indiana+Jones+e+o+Chamado+do+Destino+-2023.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Indiana+Jones+E+Os+Cacadores+Da+Arca+Perdida+%281981%29" tvg-info="direct", Indiana+Jones+E+Os+Cacadores+Da+Arca+Perdida+%281981%29
+#EXTINF:-1 tvg-name="Aleijadinho - paixao gloria e suplicio - filme restaurado-720P",Aleijadinho - paixao gloria e suplicio - filme restaurado-720P
 https://861134098.tapecontent.net/radosgw/oDlRZYoJlQtj36/Icwbaz24HcN77oDuTj9Rcf_MzuMeuWApqybShF6SqKUJVJecOsiSc0KXy0a9WKhf8DHn775wllHCmwr6wkfEGe9u92STRNXyHxuoBXoMXBjZ0jWKxHWLQLcax2QP_A92lKxZbui0yBjYmBhOSJFprBi72O5bGxcGiVl3x8vAY070PbxpnvV4rfoaE7jgyydGM4sRIPd29XCeRUXu4EI-h6yX3C59rJuxFdPhFJ3ZlHah7mIgzVo7n-Z8bYqh7qxjY5DdEugu9Jee9NKW6heSmQpEkjcihliao_7Ce7YoyoycsZ8xGSfZiA5EcCmiVV0YSEKB9Fqvm1UeaAgR/Indiana+Jones+E+Os+Cacadores+Da+Arca+Perdida+%281981%29.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Aleijadinho+-+paixao%2C+gloria+e+suplicio+-+filme+restaurado-720P" tvg-info="direct", Aleijadinho+-+paixao%2C+gloria+e+suplicio+-+filme+restaurado-720P
+#EXTINF:-1 tvg-name="O Invasor - 2002-Nacional",O Invasor - 2002-Nacional
 https://861114346.tapecontent.net/radosgw/qyrdkxkQegtzQ92/bIJzrFkCt5WqzCMLW157uUKDXCy-H1mWcjE133rpb0NVjk7yV2WbUatyvSFAEh_0hyNl9WxS0-blwhzuV1bOpf8-HG8b9xB6Vupvj7rcseb8LiiRHe41AMo97yxrnGuVwJjl2ZY9PjJ2PhNNPtsUJ8_wVBQOrMaPmuyPBD2mRKwXSh4PeKsJ4XDuNvjfKiRhS8OhfE2sJTioW0zLEhJL6ugdcHVKgiDZlJJIZTYCRW0ZJCGmOOUyIOp7KuRgmOh-u-VGVbXEKPoP-mBLfy9jpsI7Q-3jbnh3-37fPuzj8O_2VsZ3c2YRW7VbH_3up3Umdiq-NKxI_TrZK9F1/Aleijadinho+-+paixao%2C+gloria+e+suplicio+-+filme+restaurado-720P.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Cidade+de+Deus+-+2002" tvg-info="direct", Cidade+de+Deus+-+2002
+#EXTINF:-1 tvg-name="Cidade de Deus - 2002",Cidade de Deus - 2002
 https://3652634696.tapecontent.net/radosgw/28yLQ31YWJIA06/g6qgewL7ICdUuFgrM1y9t2t5gTeSO6t6jEaYN9ZqzJu7wDw05o38wVnu0hG7BTLVN7xzh2C9zhBEcktjOQH7I_QVXwOF-RgCTlkhZp_nYsKtdN-Sg8w0xoxbAcf9_Q8G70_kBxjUVhwWXi2s11TJf132oUXqoirjFrv6NdaWTRrMl9IISFPHX16KHMO_jyP7JW3rEknWqp9FOexxbMrv7qfpQCEKLeq4C3VqTW0lxEPlEx4jOaPOFBL1j0umkzO5kvI_QXo2IzD1nsDmN3p9zxr_Fn-Kpv_hF8FCmw/Cidade+de+Deus+-+2002.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Meu+Nome+Nao+e+Johnny+2008-Nacional+720p" tvg-info="direct", Meu+Nome+Nao+e+Johnny+2008-Nacional+720p
+#EXTINF:-1 tvg-name="Lisbela e o Prisioneiro 2003 -720p",Lisbela e o Prisioneiro 2003 -720p
 https://3652634705.tapecontent.net/radosgw/M9bZZyQmelIm46g/2-9WGCN1436JMPigJ0tpRnG0YtyCuPgNxqZlwcrjfCETuunzubySGAX5ZD_yUGDn9uPMusIrP22opG35KDLjopevUCh5IXvPbNPLaXNbw1swi4_cIEHJNQERv9NSYfXZf5R1jhH1KG8qOJMaDa9y6-sdp_8vvO-6Jq07c3dDg4vxZG_LfiFV23-UX7eJZIapHmh_oyf7sA5FNaytT4vhaM6EXp0VAeVVSQ7J-0awBd50AVWqXEuC84zZrw0l1rPDFV-zyFGM6r4qBpsZAXuRleWxtZZeRpBva1Zj-WQ_V_9OUIR92mIYPTW06rs/Meu+Nome+Nao+e+Johnny+2008-Nacional+720p.mp4?stream=1
-
-#EXTINF:-1 tvg-name="O+Invasor+-+2002-Nacional" tvg-info="direct", O+Invasor+-+2002-Nacional
+#EXTINF:-1 tvg-name="Meu Nome Nao e Johnny 2008-Nacional 720p",Meu Nome Nao e Johnny 2008-Nacional 720p
 https://3652634707.tapecontent.net/radosgw/bk4kVAjY8McP309/nq9wt4uQRsBPYSwz8t-DFj3wDaym7DbwFx7Yud1hRssu5Gp8Df52RTYm3mov1raWXU3Znyc0ewn9C6kvVTUA1HY0fFxf7zGNn8EpDEnHEvgMn-vr67HjAIV_CeL6l8mv-zyz3YCBxl5eTIn7y0Zzhf-8oyW0bXdztmBF_ARsi6TUGVg6PbMdzNTTRPio5RniZi72Tjqo8J-FWuoF8t4ycdxBcgvBostvtC-Epuy0gOoMlZlK7y2Xd7_KOLCGmLxtWKY0hcTSEkX8RIruxbgAZDYfPyHYuvVqfusRJg/O+Invasor+-+2002-Nacional.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Lisbela+e+o+Prisioneiro+2003+-720p" tvg-info="direct", Lisbela+e+o+Prisioneiro+2003+-720p
+#EXTINF:-1 tvg-name="O Alto da Compadecida - 2000",O Alto da Compadecida - 2000
 https://3652635008.tapecontent.net/radosgw/GbbqVlq8WMumke/ZcdDbjoM9ipMlIFo7P737We5BhzpgG6hb8X2rw898dH-uhR-HnvwIji0JKQ0sa0M5PXE1TJsQANleTaHegIZM0c76wtRQvGDwDbx8g1Sy9WrzQRFuhtpvx2i0EPcKGxlUAh5JTFBz8R-ivv6YQDBGDSLyIuAtfIEYrubB5qyeuTVWqySJnJnJTxROIvans_jHYFHXECoiEZH_Z93T_52ttReYdF3TTGGBpKcpXBI_DmFY7eO6YyQQhnOW1nG5Nhkfya8vYWEaZq34zCRnFoSPPzwL51jG2UMROCeC5kowOclth0p9vX9_TG5YpI/Lisbela+e+o+Prisioneiro+2003+-720p.mp4?stream=1
-
-#EXTINF:-1 tvg-name="O+Alto+da+Compadecida+-+2000" tvg-info="direct", O+Alto+da+Compadecida+-+2000
+#EXTINF:-1 tvg-name="Carandiru - O Filme - 2003",Carandiru - O Filme - 2003
 https://861134095.tapecontent.net/radosgw/0RKDGMJqRKCbPKb/R9OEefd9Zir99Bm8BETKpcQ7zC0nfTYhOiSgwyH4I0byp3MYAIBINjd-0oMFtWUIBJa0LZRDcTC9XrMBD17fPMEXs2yFINui4KlzkcoBq5SN5u4az3gTfewxsuEK1G1TycB0tQuSPbeN-hAck7l0OPVQAQdaY9nWEY6JPukHHdcLJOl68JWd6YkhxU0dD5FzcxHzjGTcgFfcPhpWpvAy1NKVV7aBQrjZCz0j0aWe40I_bDmCRSaladzmuiT5HUIBKmqnfhE1PM8QS_5_VvLWutxcKjvAXowDzB7K_Q/O+Alto+da+Compadecida+-+2000.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Carandiru+-+O+Filme+-+2003" tvg-info="direct", Carandiru+-+O+Filme+-+2003
+#EXTINF:-1 tvg-name="Bicho de Sete Cabecas - 2001",Bicho de Sete Cabecas - 2001
 https://2565136607.tapecontent.net/radosgw/MY8LwpQad2ImkRl/g5zTAguZ1URY_Cu5ZFhLD_UcCy9ksarcbBePsAQNSnsfYR4PLzNYTr11Eu-vNL5wk3t0Lr1Okb_lnZjzgG7Ld8vNVEEfK1B9Nm0mWs_4EP08UdALL94FVwJNyJ3GIgi0f8NP2RA-r1UyAta0OLMzJmqqrI2l9vvsymoLPOV4JwqJdD7VhCJ9qo5ZtQSX3VckR_56h8fAFstfAjGgc1f3y7Bycx8SuWcPjkd3o6dLYoDvYhM8TKwWFTR_EbXJCb4y_hjDUz5T5_FN6C82fosdpC3XVewxj88tqeJqaw/Carandiru+-+O+Filme+-+2003.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Bicho+de+Sete+Cabecas+-+2001" tvg-info="direct", Bicho+de+Sete+Cabecas+-+2001
+#EXTINF:-1 tvg-name="Central do Brasil - 1998",Central do Brasil - 1998
 https://3242599178.tapecontent.net/radosgw/6Rk3AKlkm8f936x/Xhnl7nQ6k2i-g0md_HFHH7ughHUo3zUo-rxMutCociiNj9MmrzHUzHWyS4TunhlPQn_rLskq1X7xSe8btUOKcehO4q9bg6CnFIpzNaLbPHxRnnluK-Il6-xdrpUpWyl3UGqBOrBW8-0k2cKbHc9lQTd-wm1ntebo2ZIO6cqhljZiQDTbj3mq-vj88dnbZiPEu2II483kQ_iCz7Cubd_s2Gjg1o8-nw3JFTwZpj9K5uiQWQdM4jazL1sBzqCCl9i__ZR5Cdsk7kX7Fh1zaJ_wm3ZY_T_sbvaT5fvB3Q/Bicho+de+Sete+Cabecas+-+2001.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Central+do+Brasil+-+1998" tvg-info="direct", Central+do+Brasil+-+1998
+#EXTINF:-1 tvg-name="Divertida Mente 2",Divertida Mente 2
 https://908472281.tapecontent.net/radosgw/3JoDP0Mw1LCdgAB/uHIDDB6hyohNslpgHoeOiyNiQH7O5xbMDeEjU_TboMB_u9oo2WJOpoS1UD3D_x4yeN4tG2C7-EPtuHMdU_hyYnl0jpJ-bk9g-67z2t2rmahRguy2qepQH5w6If37OpYkICSknjfjHy1j68vSr_CIR9oVixzenMgq9zXkUKu_L7yQf9fxlxTgS1v8v4Vo3EWSUsHt6PDsuQ_F1xuk-VsHbY4_gthqYYlrFo8WSUsfBYG3K1fnt-Atw2Kb85CsKKhKCl23dp2tpnKvmU-p2iz817bFS8VPogLlMRbb3w/Central+do+Brasil+-+1998.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Divertida+Mente+2" tvg-info="direct", Divertida+Mente+2
+#EXTINF:-1 tvg-name="Viagem ao Centro da Terra O Filme 720p Dublado",Viagem ao Centro da Terra O Filme 720p Dublado
 https://3242621514.tapecontent.net/radosgw/xqDbwR449gIo91/lWidYoAGa_abl13y_UXGalOg0qO2mPMcosTT2cof7g_fKw8GEiySzKw_7PqjEVa67afTP1ZXjoTwZ_VZkwahQA6YYBWim5LACwa4gcxvxVgrbYEuiIG8RjlL_axbrkkdwNxoD0FIXXH2fjcuDrLgc9xk1GvU03GxRD4YVcHduH1nA6JCY5c26TftWbcSc43Qrnaj_amGgDGgt_NXogwd1Jopnc5E_HuF8FLJqRs_UcgbRkJUyCpqcpQ6ZFHmZ77oWsTbBPVLCYdn79iLPOiTz0UO32UYD5_ZxRgRKw/Divertida+Mente+2.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Viagem+ao+Centro+da+Terra+O+Filme+720p+Dublado" tvg-info="direct", Viagem+ao+Centro+da+Terra+O+Filme+720p+Dublado
+#EXTINF:-1 tvg-name="Um Sem Juizo Outro Sem Razao 1991-Dublado",Um Sem Juizo Outro Sem Razao 1991-Dublado
 https://861606704.tapecontent.net/radosgw/opbDjdylxkCJa04/y_SAWocU1GbaBbM7aWKUKhX_-jzDIl4o8DT8vvmmBkUQpDhXfufJzB-7zSf0XLBkZ1Ps6_0-gbbWUKTnvlb6XehCrQXaqerdN7rH5YCgqWoGErFfbX5NazeGLfDvbNTbnGCJyNYa-rMz7wErm3iTurptz8u3ucBR-wBDymJzl6xr5iXXkmW-2xR-3q2JO3QVhcpy5KLtYtRsosSNq0Tc1TJHU-TZi0jrafMUQazKIYOA-i5lO-51Phq7hrmoqp8nXUILmKmvu6orbyLtqIGq6irvDkmFwe8XcCVuqhVVbt276LzLU6etwi02hTA/Viagem+ao+Centro+da+Terra+O+Filme+720p+Dublado.mp4?stream=1
-
-#EXTINF:-1 tvg-name="A++ARVORE+DA+VIDA+-+Raintree+County+-1957.+Dublado+720p" tvg-info="direct", A++ARVORE+DA+VIDA+-+Raintree+County+-1957.+Dublado+720p
+#EXTINF:-1 tvg-name="A  ARVORE DA VIDA - Raintree County -1957- Dublado 720p",A  ARVORE DA VIDA - Raintree County -1957- Dublado 720p
 https://908356846.tapecontent.net/radosgw/reG2Waoq20Tb1mA/BW78UT-ILODfcsGCQQNI6Olke71kj3dJs8rv21zrtdCRACT9i3gFzjgpipMPmq7QxjzJO2nr7Fo0pSm8zl_uOWjBzoi3ESkwqBcZN9vsjUTbEKq4YwuaxGKT7kvPQeZl-bHonKLsRu0qvTadAF5Zl82rC68AFYyIQ11IsU-1Pt_eoUC_hSQsL4q5TfZ17WuFWUwAFvLRIA4T_R-U4rNO_TgObhJAmS8nH5s_TACziYnIjEHhhD-oWy9kF4oyinoGDJendAojLgkXF6PVSdRs6HUTc_tdEDE2PW7AL4V8hAeegCKYs0lcRM29Rc-Yfxa-KbFNGQWmGdYgBJ7o/A++ARVORE+DA+VIDA+-+Raintree+County+-1957.+Dublado+720p.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Pateta+-+o+Filme+720p+Dublado" tvg-info="direct", Pateta+-+o+Filme+720p+Dublado
+#EXTINF:-1 tvg-name="Pateta - o Filme 720p Dublado",Pateta - o Filme 720p Dublado
 https://860718746.tapecontent.net/radosgw/1WdrKwdlp7Temm7/kC-LlToNT3WkiJZL6617fdueQ8_n90ZLlx4MbS0yxRmErsRQpUZRJhytbOn5_KxxDWKkPkuEkx9MRZius8HgilogiAJYBYQiAcJ8eFS9gzT-uhBtMA7CKBJz1Cl72MahxYOWrSs0XKa9pdZ5NqMJ_yB7KFSqTM46j33XxJNn0E4UaVRqmiAgoEbrBCU7q6gzOgY8BuSC2EmfvwTqTxy0UDLsuRyh-uCgfQs1llLEcpnGL31Lz60mk7iq4brJIlV5XfnO7NNSWcI1mEqW_rlqYksL-nk7oo1rotuR3A/Pateta+-+o+Filme+720p+Dublado.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Snoopy+e+Charlie+Brown+Peanuts+-+O+Filme+2016+Dublado+720p" tvg-info="direct", Snoopy+e+Charlie+Brown+Peanuts+-+O+Filme+2016+Dublado+720p
+#EXTINF:-1 tvg-name="Snoopy e Charlie Brown Peanuts - O Filme 2016 Dublado 720p",Snoopy e Charlie Brown Peanuts - O Filme 2016 Dublado 720p
 https://868418907.tapecontent.net/radosgw/LvrQwBzKJPtRrVa/YHsS5qobKClKEtsUVq1pc3nGnOHVUWZlPSJ04uKJGJim0MV3MQAHj1gdSFUTC1BG0VED6CMioJriC36DTd7vJ2Oetmps70OtfokalEtiA7AVlWe1WaV--kmMvzb9gD0JeXWWkjCYypKNlNQdPWB4W2_ruUZJx9pZKIMATVCQ0lXSPBP5j7IE3L2LiS-ChEmhLmcmaayJeLKsuZtBSCF-EF1qutHJprQliUJUQZrDQnJVIAyCA5CVMJjpOiLuALzSVZEKXrR4z8ujhALW4bUBAkwLEdPOvIn-hf87j34tt3qqmhrryB1Y-6DpwcjWLLMAzWUWSqjM9BY_mpmI/Snoopy+e+Charlie+Brown+Peanuts+-+O+Filme+2016+Dublado+720p.mp4?stream=1
-
-#EXTINF:-1 tvg-name="A+Esperan%C3%A7a+Vem+Do+Lixo+Ano+-+2015+-+720p+Dublado" tvg-info="direct", A+Esperan%C3%A7a+Vem+Do+Lixo+Ano+-+2015+-+720p+Dublado
+#EXTINF:-1 tvg-name="A Esperanca Vem Do Lixo Ano - 2015 - 720p Dublado",A Esperanca Vem Do Lixo Ano - 2015 - 720p Dublado
 https://860569045.tapecontent.net/radosgw/go0gzpWoe4Sq6xa/y2CTaFKAlS4km1Y8T_XDV5f5fnqyBMObWbYiLd81iY8i13Rx2bwhENzhtNe5Z8iBNHRnFWk5pTgAW3CyxiZ7N8qCUuncV77eWwSLh-UMUzz4zUPHqO8jL3drs51oHr5dS2zFwTFuSJBJ8N-GqJ1iaOIoJKZddTWlmgsuiyWhyA7V_H8UgsufKIZqO5FomV2jI7cEALQrRLTexLmAD-psCDoepjC0duTUA4rpjd4SyIVbox-wnrsKvVrIbH4KhwNDGPyCoukGxqxCIVlrSv7RdVkaYWly6x-sejktQuJvz1iLkKvpvHPqTubPAgBy4KjGQlwSwlOpJWLVv-DA/A+Esperan%C3%A7a+Vem+Do+Lixo+Ano+-+2015+-+720p+Dublado.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Um+Crime+de+Mestre-Anthony+Hopkins+-+2007+-+Dublado" tvg-info="direct", Um+Crime+de+Mestre-Anthony+Hopkins+-+2007+-+Dublado
+#EXTINF:-1 tvg-name="Um Crime de Mestre-Anthony Hopkins - 2007 - Dublado",Um Crime de Mestre-Anthony Hopkins - 2007 - Dublado
 https://908345053.tapecontent.net/radosgw/YpmozepkB2UvxZr/FEUd_IyAnIE26Fo_p0RNOpV6Ji2s0Y_8wrFfOnKSQYlsA6jQMeYsvA_Kmnj1_jAoinzusNyvKxxDNpdAaa-PTx8780jcy3cN973XmAJgwe5qgw1Chln9xx85_pg7q7Ae0JeurObMhNvcpBMWK7MgtAuoJESOSmvAa7GP81-Myv1JzRQQeyXWoR8PDNWj6-ZpuP7Skbs1psxUqKnhCfBQOqzsS9qkYMKmB20niNXBtpa8ad5gGYKPmOeOsB2qqOc6sc-MEVpUN9gCWFmoVpeUkl9g5vgLCXBGzjrzwXtjjfzkLWF39qigFRyCBMf6ghJcP6Nk26RYdjjnnCWL/Um+Crime+de+Mestre-Anthony+Hopkins+-+2007+-+Dublado.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Hitchcock+-+Filme+2012+Dublado" tvg-info="direct", Hitchcock+-+Filme+2012+Dublado
+#EXTINF:-1 tvg-name="Hitchcock - Filme 2012 Dublado",Hitchcock - Filme 2012 Dublado
 https://872371610.tapecontent.net/radosgw/qx6xKmwepjizQ17/1010or_QQbPD06rHm2J6oFfJqwlAQ5icfUiCCp7G-734OfN8qzxkBFdWPrb2C4_sMcaZFGdS53eOevnUYcC3HiMThvxYcl0NEVBN5rMhtdR4FMTAeP5Da2wpZema-fjZfdicwWgyCg86_wGj66uQ-KPeQR-VPgUOpgiWWPpqYkK_rhsPEytpmCARismc3hS5Y1xpi441wtWauJxHd7LaeixY22b4Ed6W-86HexKAVYmaD9V9ECMzzSx8hK1tx7LAOIkq-K_vc_uioLhIlBWB6cjDHiOlvGSR2jBSQ-e4yB99pRCZizD1lTEZJVc/Hitchcock+-+Filme+2012+Dublado.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Hotel+Ruanda+-Genoc%C3%ADdio-Hotel+Rwanda+-+2004+-+Dublado+-+720p" tvg-info="direct", Hotel+Ruanda+-Genoc%C3%ADdio-Hotel+Rwanda+-+2004+-+Dublado+-+720p
+#EXTINF:-1 tvg-name="Amistad 1998",Amistad 1998
 https://860133936.tapecontent.net/radosgw/wrwAPlKjqdHJ1Ze/7HiWOsREqn3iiYRT0NRwsZBatLttP1JQqXDvLmGNgjsjsDKjdVqbD7cmXI_7PrduzB3SKzIdjiyFz2wzuYMg2L9EiY011tfzgMuSnoh-us5arZCp3oe-o1_cRgayIhjlEtMjteBexylU0yCBjDvqO8PxYV1HRumExYfrrOqdDd1fiSHAwnCEPXmM5KLRPyzBW1ZoGQZ9lhylMTj0Ig7e4qkGIs-dasb7C7upX1miKMYq84YBTauz-9NrACtsKJdldsCXnKtKkaVTTkN21P9pQhlGJEmKHsIjoPlssoo4NRaTD3ekUhbcfw0QWhjlAPUAMJr-JdtSHthFWHAl/Hotel+Ruanda+-Genoc%C3%ADdio-Hotel+Rwanda+-+2004+-+Dublado+-+720p.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Amistad+1998" tvg-info="direct", Amistad+1998
+#EXTINF:-1 tvg-name="Hotel Ruanda -Genocidio-Hotel Rwanda - 2004 - Dublado - 720p",Hotel Ruanda -Genocidio-Hotel Rwanda - 2004 - Dublado - 720p
 https://2448396461.tapecontent.net/radosgw/my96A3RQa1TbZQj/hgs822-FDXhCJGG02PGcEkCROCCm7wwmWTjhMWyJxQ2RHk3sA-X9BgZXj4b97jmhrlb99WmCuUD1JKGTzNX9en4goZaAQy8HNA_V6fwNun0jwhxFvh3osGV07J84AChks_ooHoYgO5zUla1d8lNcT2OE90QYlM0bDoA2GJn8o2-IXpSwtCZ7IZ4C3Na7ONZIXJKNGc14JsIRsS5xFOtFO9TVoo6YTT0Roh5ru8hnnKhbUhHLIAg7yAPVUW0DMfHmf6Mn7cdk_ewEdoII/Amistad+1998.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Hannibal+-+A+Origem+do+Mal+-+Filme+2007+DubladoBr" tvg-info="direct", Hannibal+-+A+Origem+do+Mal+-+Filme+2007+DubladoBr
+#EXTINF:-1 tvg-name="Hannibal - A Origem do Mal - Filme 2007 DubladoBr",Hannibal - A Origem do Mal - Filme 2007 DubladoBr
 https://2475163186.tapecontent.net/radosgw/dOjG03WDR1fPZY/9WFXHEtAJwY6Eh49WgaGDjDvFPZlFYhSMW9Pupsn1EhUSDo3Ny_HNXD5f-ipmEae-DmGJIVXpLeyEvFPLMejve9v6ttsVaI0llWuUv3PJXNK8Wd0DvZ71KP4mcoIVtzB-p6g8bJw4KYgqUHVZFPRw2ndIwZSzfb2aeiKyYZTFhsOkHA29CLvsmhnQ_5Kc_Y12g0neFLLbTXj8RNplQgl6SHn0S9jGvkxJBg-l_fAGYDFfRZhS-XpkLVWqkeKUpQUg0mb9wNlt7b4affkSvF0ENGZIqP2TdrK4PlhNrmYZgUAA_zfl0A28-ofn99ZC2d3lZtSRBmz-KVcT62u/Hannibal+-+A+Origem+do+Mal+-+Filme+2007+DubladoBr.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Desafiando+os+Limites+-+2005+Dublado+Br" tvg-info="direct", Desafiando+os+Limites+-+2005+Dublado+Br
+#EXTINF:-1 tvg-name="Desafiando os Limites - 2005 Dublado Br",Desafiando os Limites - 2005 Dublado Br
 https://2453352374.tapecontent.net/radosgw/aRvZYgoZMzFx1vA/C5UmiPrWSR6NTS11F9oRtyRKfEYuKn3_FWk6raBzy-4Tn5xQspY-xEo6P0BECOn4CvEwlwd6wPf9F4QkxzJ3GpBXnTf3jBja099ILZW-uYT-A1kpMi_alL2xGNKKK2kiEfJVcyOiNGmpVIRtFVRYnBjHTyeHDfToxY1M5bRzFk2c_Dhnakcy2uQKFF3sIr8ntdvGbMGC2Hc1lCoGgHtnGX0pki4JiOAhFrgukdJI-7Kar4TCM8Z39RvHQE3lXs6dfXCC2ywzxgYjcv0jTbud3Ij-YYlRqs6sA001rKgdlist-xSM6ERZ0N8TfuU/Desafiando+os+Limites+-+2005+Dublado+Br.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Instinto+-+1998" tvg-info="direct", Instinto+-+1998
+#EXTINF:-1 tvg-name="Instinto - 1998",Instinto - 1998
 https://860134112.tapecontent.net/radosgw/0JKDylamggIb9RY/XlXwe1mliSh-YCutdRIr2tmhy-qoOcv4mKhAMjA0HbW9mvgmJ8-77f1bUVSM7B9qV4IvPAQdv_xbgodTZilix5ncMicshR0VH5pY4FBq014GaLRpJjuPbccgkVrUbdwxhdNQMfytcNsN_FptfLir7Nbv2ivJvpGI1rwIk-UPT6_C11oOn7GbmmhBnZ8MomA6oCdx144l9UQF79_K_8ZbkZCr8QeviDfq1iVuxWPpR_Ezt-Lw2j7klgS87OcWsU2WvHdb-c9CCC5UyjzgUpFVjL7ZBcCu7IBZRVysGQ/Instinto+-+1998.mp4?stream=1
-
-#EXTINF:-1 tvg-name="Tropa+de+Elite_2+-+O+inimigo+agora+e+outro+-+2010" tvg-info="direct", Tropa+de+Elite_2+-+O+inimigo+agora+e+outro+-+2010
+#EXTINF:-1 tvg-name="Tropa de Elite_2 - O inimigo agora e outro - 2010",Tropa de Elite_2 - O inimigo agora e outro - 2010
 https://861608248.tapecontent.net/radosgw/VWWXx0Zvl6F3v2/eki_22mgCMtu87zjzpIXB8uFu6loAKgU5fQgowd2Ad60aLhQP4ewW2_S_t5CUpjkYrIo7KLt76M7EiCKAtWoTVjZbYULaXFUO03Chm6nEuvvxSzQL9NKt5Kqo3gyRhJK3hHSZwlIYva-8ev5_N21_uWm5nBXGUAmJ7ZY-DNPT4crzcqk4Wivs17H0YpRLYFt9WOYJ-Y4vuQTXUeC3HMDCmYTYzF-jlJRyuw7MUBDIhCI7BGaSLLaT0c9m4uqp31A9rATJ_qEF403EEFDlrC0N6EE5JJA_timNvmbIj_hTvDDzWEBoZUhiMrh6HY/Tropa+de+Elite_2+-+O+inimigo+agora+e+outro+-+2010.mp4?stream=1
-
